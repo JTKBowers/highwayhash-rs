@@ -1,0 +1,6 @@
+[package]
+name = "highwayhash"
+version = "0.1.0"
+authors = ["James Bowers <james.t.k.bowers@gmail.com>"]
+
+[dependencies]
